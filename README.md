@@ -1,2 +1,2 @@
 # assessment
-kabamoto-takahitoが作ったあなたのいいところ診断ゲーム
+あなたのいいところ診断ゲーム
